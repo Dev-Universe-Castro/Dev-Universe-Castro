@@ -36,9 +36,38 @@ Minha paixão é traduzir a essência de uma empresa em experiências digitais e
 
 ### 🚀 Destaques & Qualificações
 
-- 🏆 **+200 Certificações:** Compromisso contínuo com a vanguarda do conhecimento em tecnologia e gestão, incluindo certificações em áreas como TI, desenvolvimento, segurança e marketing.
-- 📈 **+15 Grandes Implantações:** Portfólio comprovado como catalisador de transformação, liderando a implantação de mais de 15 sistemas de grande porte, como ERPs (Sankhya, Omie), TMS (ESL, Trizy), automação e soluções de BI.
-- 🎓 **Formação Híbrida:** Graduado em **Gestão de TI** e em reta final na graduação de **Engenharia de Software**, unindo a visão estratégica de negócios com a profundidade técnica da engenharia.
+- 🏆 **+200 Certificações:** Compromisso contínuo com a vanguarda do conhecimento em tecnologia e gestão.
+- 📈 **+15 Grandes Implantações:** Portfólio comprovado como catalisador de transformação, liderando a implantação de mais de 15 sistemas de grande porte (ERPs, TMS, BI).
+- 🎓 **Formação Híbrida:** Graduado em **Gestão de TI** e em reta final na graduação de **Engenharia de Software**.
+
+---
+
+### 🎓 Educação & Conquistas
+
+<details>
+<summary>🏆 <strong>Digital Innovation One (DIO) - Formação Banco de Dados</strong></summary>
+
+- 📜 [Construa um Projeto Lógico de Banco de Dados do Zero](LINK_PARA_O_CERTIFICADO)
+- 📜 [Construindo seu Primeiro Projeto Lógico de Banco de Dados](LINK_PARA_O_CERTIFICADO)
+- 📜 [Modelo Relacional e Mapeamento Relacional com Banco de Dados](LINK_PARA_O_CERTIFICADO)
+- 📜 [Primeiros Passos com SQL](LINK_PARA_O_CERTIFICADO)
+- 📜 [Explorando Queries com SQL](LINK_PARA_O_CERTIFICADO)
+- 📜 [Agrupando Registros e Tabelas com Join Statement](LINK_PARA_O_CERTIFICADO)
+- 📜 [Criando Queries com Funções e Cláusulas de Agrupamentos](LINK_PARA_O_CERTIFICADO)
+- 📜 [Materiais complementares - Linguagem de Consulta à Banco de Dados SQL](LINK_PARA_O_CERTIFICADO)
+
+*🔗 [Veja todas as minhas 99+ conquistas no meu Perfil DIO](LINK_PARA_SEU_PERFIL_NA_DIO)*
+
+</details>
+
+<details>
+<summary>📜 <strong>Outras Certificações Relevantes</strong></summary>
+
+- 🏅 [Nome do Curso Mais Relevante](LINK_PARA_O_CERTIFICADO)
+- 🏅 [Nome de Outro Curso Relevante](LINK_PARA_O_CERTIFICADO)
+- 🔗 [Veja minhas credenciais no LinkedIn](LINK_PARA_A_SEÇÃO_DE_CERTIFICADOS_DO_SEU_LINKEDIN)
+
+</details>
 
 ---
 
