@@ -1,0 +1,41 @@
+# Nome do Workflow do GitHub
+name: Generate Pac-Man Animation
+
+# Gatilhos: como o workflow é acionado
+on:
+  # Executa a cada 6 horas
+  schedule:
+    - cron: "0 */6 * * *"
+  # Permite executar manualmente pela aba "Actions"
+  workflow_dispatch:
+  # Executa também a cada 'push' para a branch 'main' ou 'master'
+  push:
+    branches:
+      - main
+      - master
+
+# Tarefas que o workflow vai executar
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      # Gera a animação do Pac-Man
+      - name: Generate Pac-Man
+        uses: platane/snk@v3
+        with:
+          # O ID do seu usuário do GitHub. ${{ github.repository_owner }} pega automaticamente o dono do repositório.
+          github_user_name: ${{ github.repository_owner }}
+
+          # Lista de arquivos de saída
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+
+      # Publica os arquivos gerados em uma branch chamada 'output'
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
