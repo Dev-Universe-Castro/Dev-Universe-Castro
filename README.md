@@ -42,14 +42,7 @@ Minha paixão é traduzir a essência de uma empresa em experiências digitais e
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Universe-Castro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="github stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Dev-Universe-Castro&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
-  <img src="https://streak-stats.demolab.com?user=Dev-Universe-Castro&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Universe-Castro&layout=compact&langs_count=7&theme=dracula" height="150" alt="top langs graph"  />
-</div>
+### 🕹️ Minhas Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Universe-Castro/Dev-Universe-Castro/output/pacman-contribution-graph-dark.svg">
