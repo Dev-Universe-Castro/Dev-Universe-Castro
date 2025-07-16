@@ -26,32 +26,16 @@ Minha paixão é traduzir a essência de uma empresa em experiências digitais e
 
 ---
 
-### 🎓 Educação & Conquistas
+### 🏆 Minhas Conquistas na Digital Innovation One
 
-<details>
-<summary>🏆 <strong>Digital Innovation One (DIO) - Formação Banco de Dados</strong></summary>
+<a href="LINK_PARA_SEU_PERFIL_NA_DIO" target="_blank">
+  <img src="LINK_DA_IMAGEM_QUE_VOCÊ_UPAR_NO_SEU_REPOSITÓRIO" alt="Conquistas DIO"/>
+</a>
 
-- 📜 [Construa um Projeto Lógico de Banco de Dados do Zero](LINK_PARA_O_CERTIFICADO)
-- 📜 [Construindo seu Primeiro Projeto Lógico de Banco de Dados](LINK_PARA_O_CERTIFICADO)
-- 📜 [Modelo Relacional e Mapeamento Relacional com Banco de Dados](LINK_PARA_O_CERTIFICADO)
-- 📜 [Primeiros Passos com SQL](LINK_PARA_O_CERTIFICADO)
-- 📜 [Explorando Queries com SQL](LINK_PARA_O_CERTIFICADO)
-- 📜 [Agrupando Registros e Tabelas com Join Statement](LINK_PARA_O_CERTIFICADO)
-- 📜 [Criando Queries com Funções e Cláusulas de Agrupamentos](LINK_PARA_O_CERTIFICADO)
-- 📜 [Materiais complementares - Linguagem de Consulta à Banco de Dados SQL](LINK_PARA_O_CERTIFICADO)
+*<p align="center">Clique na imagem para ver todas as minhas 99+ conquistas e projetos na DIO.</p>*
 
-*🔗 [Veja todas as minhas 99+ conquistas no meu Perfil DIO](LINK_PARA_SEU_PERFIL_NA_DIO)*
 
-</details>
-
-<details>
-<summary>📜 <strong>Outras Certificações Relevantes</strong></summary>
-
-- 🏅 [Nome do Curso Mais Relevante](LINK_PARA_O_CERTIFICADO)
-- 🏅 [Nome de Outro Curso Relevante](LINK_PARA_O_CERTIFICADO)
-- 🔗 [Veja minhas credenciais no LinkedIn](LINK_PARA_A_SEÇÃO_DE_CERTIFICADOS_DO_SEU_LINKEDIN)
-
-</details>
+---
 <div align="center">
   <p><b>Backend & Linguagens</b></p>
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,go,python,rust,cpp,bash" height="50" alt="backend logos"  />
