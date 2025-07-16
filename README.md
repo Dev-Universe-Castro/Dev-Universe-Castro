@@ -1,23 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Paulo Chagas de Castro F.</h1>
 <h3 align="center">Gerente de TI & Marketing | Arquiteto de Soluções | Desenvolvedor Full-Stack</h3>
 
-<div align="center">
-  <p><b>Backend & Linguagens</b></p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,go,python,rust,cpp,bash" height="50" alt="backend logos"  />
-  <p><b>Frontend & Design</b></p>
-  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind,figma,photoshop" height="50" alt="frontend logos"  />
-  <p><b>Bancos de Dados, Cloud & DevOps</b></p>
-  <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres,mongodb,docker,aws,azure" height="50" alt="database and cloud logos"  />
-</div>
 
-<div align="center" style="margin-top: 1.5rem;">
-  <a href="https://linkedin.com/in/paulo-chagas-de-castro-filho-0555a3213" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:castroghost2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-  </div>
 
 ---
 
@@ -68,7 +52,23 @@ Minha paixão é traduzir a essência de uma empresa em experiências digitais e
 - 🔗 [Veja minhas credenciais no LinkedIn](LINK_PARA_A_SEÇÃO_DE_CERTIFICADOS_DO_SEU_LINKEDIN)
 
 </details>
+<div align="center">
+  <p><b>Backend & Linguagens</b></p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,go,python,rust,cpp,bash" height="50" alt="backend logos"  />
+  <p><b>Frontend & Design</b></p>
+  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind,figma,photoshop" height="50" alt="frontend logos"  />
+  <p><b>Bancos de Dados, Cloud & DevOps</b></p>
+  <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres,mongodb,docker,aws,azure" height="50" alt="database and cloud logos"  />
+</div>
 
+<div align="center" style="margin-top: 1.5rem;">
+  <a href="https://linkedin.com/in/paulo-chagas-de-castro-filho-0555a3213" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:castroghost2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  </div>
 ---
 
 ### 📊 Estatísticas e Atividade
