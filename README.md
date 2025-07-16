@@ -74,11 +74,10 @@ Sou um arquiteto de soluções com mais de uma década de experiência unindo **
 ```
 <p align="center">
   <a href="https://www.dio.me/users/paulo_chagas" target="_blank">
-    <img src="LINK_DA_IMAGEM_DO_PERFIL_DIO_NO_GITHUB" height="130" alt="Perfil na DIO" />
+    <img src="https://i.ibb.co/My7PmFCB/paulo-chagas-1.webp" height="300" alt="Perfil na DIO" />
   </a>
   <br />
-  <i>Explore meus cursos, bootcamps e projetos na DIO.</i>
-</p>
+  </p>
 
 ---
 ```bash
